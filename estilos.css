@@ -1,0 +1,29 @@
+
+.red-heading {
+    color:red;
+}
+
+.lavender-bg {
+    background-color:lavender;
+    width: 450px;
+}
+
+.blue-heading {
+    color:blue;
+}
+
+.underline{
+text-decoration: underline;
+}
+
+p a{
+    color:pink;
+}
+
+.green-text{
+    color:green;
+}
+
+p:nth-child(odd) {
+    background:silver;
+}
